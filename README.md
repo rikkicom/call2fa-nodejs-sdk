@@ -36,6 +36,6 @@ client.call(callTo, callbackURL).then(function (data) {
 
 More examples are in the `examples` folder.
 
-- Documentation: https://api.rikkicom.io/docs/en/call2fa/
-- Documentation (in Ukrainian): https://api.rikkicom.io/docs/uk/call2fa/
-- Documentation (in Russian): https://api.rikkicom.io/docs/ru/call2fa/
+- Documentation: <https://api.rikkicom.io/docs/en/call2fa/>
+- Documentation (in Ukrainian): <https://api.rikkicom.io/docs/uk/call2fa/>
+- Documentation (in Russian): <https://api.rikkicom.io/docs/ru/call2fa/>

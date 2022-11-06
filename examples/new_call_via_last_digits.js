@@ -11,7 +11,7 @@ var callTo = '+380631010121';
 var poolID = '8';
 var useSixDigits = false;
 
-client.callcallViaLastDigits(callTo, poolID, useSixDigits).then(function (data) {
+client.callViaLastDigits(callTo, poolID, useSixDigits).then(function (data) {
     console.log(data);
 });
 

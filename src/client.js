@@ -117,7 +117,7 @@ class Client {
         });
     }
 
-    callcallViaLastDigits(callTo, poolID, useSixDigits = false) {
+    callViaLastDigits(callTo, poolID, useSixDigits = false) {
         if (callTo == null || callTo.length == 0) {
             throw new Error('the callTo parameter is empty');
         }
